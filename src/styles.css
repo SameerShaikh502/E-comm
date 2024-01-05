@@ -1,0 +1,50 @@
+
+body{
+    font-family: sans-serif;
+}
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.common{
+    text-align: center;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    width: 300px;
+
+}
+.form-input{
+    height: 35px;
+    margin-bottom:20px;
+    padding-left: 10px;
+    border: 1px solid blueviolet;
+    color: blueviolet;
+}
+.form-button{
+    height: 35px;
+    border: 1px solid blueviolet;
+    cursor: pointer;
+    color: blueviolet;
+}
+.error-p{
+    color: red;
+}
+.message-p{
+    color: green;
+}
+.common a{
+    color: blueviolet;
+    cursor: pointer;
+}
+.invalid-input{
+    color: red;
+    margin-top: -20px;
+    font-size: 12px;
+}
+button:disabled{
+    cursor: not-allowed;
+}
+.max-width{
+    width: 100%;
+}

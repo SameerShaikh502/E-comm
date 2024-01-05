@@ -1,0 +1,22 @@
+.checkout{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.shipping h3{
+    text-align: center;
+    margin-top:15px;
+    margin-bottom: 15px;
+    
+}
+.h1{
+    font-size: 22px;
+}
+.form{
+    border: 1px solid blueviolet;
+    padding: 20px;
+    margin-top: 16px;
+    margin-left: 90px;
+    margin-right: 90px;
+}

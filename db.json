@@ -1,0 +1,142 @@
+{
+  "seller": [
+    {
+      "name": "sameer",
+      "email": "sameersh502@gmail.com",
+      "password": "sameer",
+      "id": 1
+    },
+    {
+      "name": "sameer1",
+      "email": "sameersh503@gmail.com",
+      "password": "sameer1",
+      "id": 2
+    },
+    {
+      "name": "SAMEER",
+      "email": "sameersh50@gmail.com",
+      "password": "sameer12",
+      "id": 3
+    },
+    {
+      "name": "sameer1",
+      "email": "sohailns7867@gmail.com",
+      "password": "sss",
+      "id": 5
+    },
+    {
+      "name": "sameer",
+      "email": "sameersh502@gmail.com",
+      "password": "sameer",
+      "id": 6
+    },
+    {
+      "name": "sxf",
+      "email": "ffffdxfndx",
+      "password": "ndndn",
+      "id": 7
+    }
+  ],
+  "product": [
+    {
+      "name": "iphone 14",
+      "Price": "100000",
+      "color": "white",
+      "category": "mobiles",
+      "description": "iphone 14",
+      "image": "https://images.unsplash.com/photo-1663314326607-483dbf45a98b?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 1
+    },
+    {
+      "name": "iphone 13 pro",
+      "Price": "150000",
+      "color": "black",
+      "category": "mobiles",
+      "description": "iphone 13 pro",
+      "image": "https://images.unsplash.com/photo-1581795669633-91ef7c9699a8?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 2
+    },
+    {
+      "name": "BMW M4",
+      "Price": "5000",
+      "color": "Grey",
+      "category": "car",
+      "description": "Brooklyn Grey\nBMW M4",
+      "image": "https://images.unsplash.com/photo-1617531653635-4b0e357c091b?q=80&w=1077&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 3
+    },
+    {
+      "name": "kawasaki ninja",
+      "Price": "750000",
+      "color": "black",
+      "category": "Bike",
+      "description": "Ex-Showroom Price: ₹75.8 lakhs - ₹79.9 lakhs\nAcceleration: 0-100 km/h in 26 seconds\nBattery: 12 V Maintenance Free\nBody frame design: Trellis Frame\nBody frame material: Steel\nBody style: Sport bike\nBore: 76 mm",
+      "image": "https://images.unsplash.com/photo-1611241443333-bdcff35bc8cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 4
+    },
+    {
+      "name": "Lenovo",
+      "Price": "30000",
+      "color": "black",
+      "category": "laptop",
+      "description": "lenovo's best laptop",
+      "image": "https://images.unsplash.com/photo-1530893609608-32a9af3aa95c?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 5
+    },
+    {
+      "name": "iphone 14",
+      "Price": "100000",
+      "color": "white",
+      "category": "mobiles",
+      "description": "iphone 14",
+      "image": "https://images.unsplash.com/photo-1663314326607-483dbf45a98b?q=80&w=1064&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 6
+    },
+    {
+      "name": "BMW M4",
+      "Price": "5000000",
+      "color": "Grey",
+      "category": "car",
+      "description": "BMW M4",
+      "image": "https://images.unsplash.com/photo-1617531653635-4b0e357c091b?q=80&w=1077&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 7
+    },
+    {
+      "name": "iphone 13",
+      "Price": "150000",
+      "color": "black",
+      "category": "mobiles",
+      "description": "iphone 13",
+      "image": "https://images.unsplash.com/photo-1581795669633-91ef7c9699a8?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 8
+    }
+  ],
+  "user": [
+    {
+      "name": "sameer",
+      "email": "sameersh502@gmail.com",
+      "password": "sameer",
+      "id": 1
+    },
+    {
+      "name": "sameer",
+      "email": "sameerns502@gmail.com",
+      "password": "sameer",
+      "id": 2
+    },
+    {
+      "name": "sohel",
+      "email": "sohel@gmail.com",
+      "password": "S1234456",
+      "id": 3
+    },
+    {
+      "name": "dwetgs",
+      "email": "etgfwsg@gmail.com",
+      "password": "",
+      "id": 4
+    }
+  ],
+  "cart": [],
+  "Orders": []
+}
